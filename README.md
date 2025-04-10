@@ -1,6 +1,6 @@
 
 
-## 📄 Number Guessing Game – Summary
+## Number Guessing Game 
 
 A simple Python command-line game where the computer randomly selects a number between **1 and 100**, and the player has **8 attempts** to guess it.
 
